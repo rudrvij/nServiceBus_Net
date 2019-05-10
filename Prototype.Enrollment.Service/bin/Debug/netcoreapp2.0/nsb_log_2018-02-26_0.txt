@@ -1,0 +1,67 @@
+﻿2018-02-26 10:59:29.564 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-26 10:59:29.705 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-26 11:00:11.894 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-26 11:00:12.144 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-26 11:01:02.825 INFO  Enrollment Create ENrollment Handler, BclCode = ABCD 
+2018-02-26 11:01:02.990 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'fa13a9e4-cb8d-42fa-8db0-a89301187066' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Prototype.Messages.EnrollmentDone
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 49
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 274
+2018-02-26 11:01:03.003 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'fa13a9e4-cb8d-42fa-8db0-a89301187066' because of an exception:
+System.InvalidOperationException: No handlers could be found for message type: Prototype.Messages.EnrollmentDone
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 49
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 33
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 39
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 34
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 274
+2018-02-26 11:02:26.031 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-26 11:02:26.234 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-26 11:03:17.050 FATAL NServiceBus Failed to process C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\.learningtransport\EnrollmentService\b6050b8e-d3a2-4e44-b9da-41c79b2904a2.metadata.txt(C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\.learningtransport\EnrollmentService\.pending\602bd07f-e422-4830-9797-6090b82d39bc\b6050b8e-d3a2-4e44-b9da-41c79b2904a2.metadata.txt)
+System.IO.FileNotFoundException: Could not find file 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\.learningtransport\EnrollmentService\.pending\602bd07f-e422-4830-9797-6090b82d39bc\b6050b8e-d3a2-4e44-b9da-41c79b2904a2.metadata.txt'.
+File name: 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\.learningtransport\EnrollmentService\.pending\602bd07f-e422-4830-9797-6090b82d39bc\b6050b8e-d3a2-4e44-b9da-41c79b2904a2.metadata.txt'
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at NServiceBus.AsyncFile.<ReadText>d__6.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\AsyncFile.cs:line 74
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() in C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:line 233
+2018-02-26 11:03:37.078 INFO  Enrollment Create ENrollment Handler, BclCode = ABCD 

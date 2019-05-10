@@ -1,0 +1,14 @@
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\API.Gateway.deps.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\API.Gateway.runtimeconfig.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\API.Gateway.runtimeconfig.dev.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\API.Gateway.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\API.Gateway.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\Prototype.Messages.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\Prototype.Messages.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\obj\Debug\netcoreapp2.0\API.Gateway.csproj.CoreCompileInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\obj\Debug\netcoreapp2.0\API.Gateway.AssemblyInfoInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\obj\Debug\netcoreapp2.0\API.Gateway.AssemblyInfo.cs
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\obj\Debug\netcoreapp2.0\API.Gateway.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\obj\Debug\netcoreapp2.0\API.Gateway.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\obj\Debug\netcoreapp2.0\API.Gateway.csprojAssemblyReference.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\obj\Debug\netcoreapp2.0\API.Gateway.csproj.CopyComplete

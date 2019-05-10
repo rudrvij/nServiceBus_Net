@@ -1,0 +1,11 @@
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\bin\Debug\netcoreapp2.0\Prototype.Web.deps.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\bin\Debug\netcoreapp2.0\Prototype.Web.runtimeconfig.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\bin\Debug\netcoreapp2.0\Prototype.Web.runtimeconfig.dev.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\bin\Debug\netcoreapp2.0\Prototype.Web.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\bin\Debug\netcoreapp2.0\Prototype.Web.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\obj\Debug\netcoreapp2.0\Prototype.Web.csproj.CoreCompileInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\obj\Debug\netcoreapp2.0\Prototype.Web.AssemblyInfoInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\obj\Debug\netcoreapp2.0\Prototype.Web.AssemblyInfo.cs
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\obj\Debug\netcoreapp2.0\Prototype.Web.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\obj\Debug\netcoreapp2.0\Prototype.Web.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Web\obj\Debug\netcoreapp2.0\Prototype.Web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+﻿2019-05-10 13:34:04.583 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\' with level Info
+2019-05-10 13:34:04.773 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-10'.
+
+2019-05-10 13:34:52.974 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\API.Gateway\bin\Debug\netcoreapp2.0\' with level Info
+2019-05-10 13:34:53.601 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-05-10'.
+

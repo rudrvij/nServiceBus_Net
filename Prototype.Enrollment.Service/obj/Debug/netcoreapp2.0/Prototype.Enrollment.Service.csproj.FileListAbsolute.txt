@@ -1,0 +1,14 @@
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\Prototype.Enrollment.Service.deps.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\Prototype.Enrollment.Service.runtimeconfig.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\Prototype.Enrollment.Service.runtimeconfig.dev.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\Prototype.Enrollment.Service.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\Prototype.Enrollment.Service.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\Prototype.Messages.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\Prototype.Messages.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\obj\Debug\netcoreapp2.0\Prototype.Enrollment.Service.csproj.CoreCompileInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\obj\Debug\netcoreapp2.0\Prototype.Enrollment.Service.AssemblyInfoInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\obj\Debug\netcoreapp2.0\Prototype.Enrollment.Service.AssemblyInfo.cs
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\obj\Debug\netcoreapp2.0\Prototype.Enrollment.Service.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\obj\Debug\netcoreapp2.0\Prototype.Enrollment.Service.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\obj\Debug\netcoreapp2.0\Prototype.Enrollment.Service.csprojAssemblyReference.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\obj\Debug\netcoreapp2.0\Prototype.Enrollment.Service.csproj.CopyComplete

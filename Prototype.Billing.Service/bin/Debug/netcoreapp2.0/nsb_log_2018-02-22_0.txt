@@ -1,0 +1,13 @@
+﻿2018-02-22 13:00:05.016 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Billing.Service\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-22 13:00:05.238 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-22 13:00:30.938 INFO  Prototype.Billing.Service.DocumentSentHandler Document Sent, BclCode = ELIL , Doc Type = Enrollment - Charging credit card...
+2018-02-22 13:02:54.334 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Billing.Service\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-22 13:02:54.532 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-22 13:03:03.774 INFO  Prototype.Billing.Service.DocumentSentHandler Document Sent, BclCode = ELIL , Doc Type = Enrollment - Charging credit card...
+2018-02-22 13:03:05.843 INFO  Prototype.Billing.Service.DocumentSentHandler Document Sent, BclCode = ELIL , Doc Type = Enrollment - Charging credit card...
+2018-02-22 13:07:54.272 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Billing.Service\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-22 13:07:54.479 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-22 13:08:11.571 INFO  Prototype.Billing.Service.DocumentSentHandler Document Sent, BclCode = ELIL , Doc Type = Enrollment - Charging credit card...

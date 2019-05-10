@@ -1,0 +1,9 @@
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\bin\Debug\netcoreapp2.0\Prototype.Messages.deps.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\bin\Debug\netcoreapp2.0\Prototype.Messages.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\bin\Debug\netcoreapp2.0\Prototype.Messages.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\obj\Debug\netcoreapp2.0\Prototype.Messages.csproj.CoreCompileInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\obj\Debug\netcoreapp2.0\Prototype.Messages.AssemblyInfoInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\obj\Debug\netcoreapp2.0\Prototype.Messages.AssemblyInfo.cs
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\obj\Debug\netcoreapp2.0\Prototype.Messages.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\obj\Debug\netcoreapp2.0\Prototype.Messages.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Messages\obj\Debug\netcoreapp2.0\Prototype.Messages.csprojAssemblyReference.cache

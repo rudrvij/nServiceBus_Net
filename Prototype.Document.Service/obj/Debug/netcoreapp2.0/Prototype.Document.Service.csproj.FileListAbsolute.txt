@@ -1,0 +1,13 @@
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\bin\Debug\netcoreapp2.0\Prototype.Document.Service.deps.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\bin\Debug\netcoreapp2.0\Prototype.Document.Service.runtimeconfig.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\bin\Debug\netcoreapp2.0\Prototype.Document.Service.runtimeconfig.dev.json
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\bin\Debug\netcoreapp2.0\Prototype.Document.Service.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\bin\Debug\netcoreapp2.0\Prototype.Document.Service.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\bin\Debug\netcoreapp2.0\Prototype.Messages.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\bin\Debug\netcoreapp2.0\Prototype.Messages.pdb
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\obj\Debug\netcoreapp2.0\Prototype.Document.Service.csprojResolveAssemblyReference.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\obj\Debug\netcoreapp2.0\Prototype.Document.Service.csproj.CoreCompileInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\obj\Debug\netcoreapp2.0\Prototype.Document.Service.AssemblyInfoInputs.cache
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\obj\Debug\netcoreapp2.0\Prototype.Document.Service.AssemblyInfo.cs
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\obj\Debug\netcoreapp2.0\Prototype.Document.Service.dll
+C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Document.Service\obj\Debug\netcoreapp2.0\Prototype.Document.Service.pdb

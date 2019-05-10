@@ -1,0 +1,4 @@
+﻿2018-02-23 15:03:01.872 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\Project2\NServiceBus_NET\Prototype.Enrollment.Service\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-23 15:03:02.057 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-23 15:04:31.832 INFO  Enrollment Create ENrollment Handler, BclCode = ABCD 
